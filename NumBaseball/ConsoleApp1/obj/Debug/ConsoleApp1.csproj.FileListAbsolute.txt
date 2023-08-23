@@ -1,0 +1,14 @@
+D:\수학 야구\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\수학 야구\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\수학 야구\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\수학 야구\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\수학 야구\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\수학 야구\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\수학 야구\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\숫자 야구\NumBaseball\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\숫자 야구\NumBaseball\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\숫자 야구\NumBaseball\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\숫자 야구\NumBaseball\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\숫자 야구\NumBaseball\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\숫자 야구\NumBaseball\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\숫자 야구\NumBaseball\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
